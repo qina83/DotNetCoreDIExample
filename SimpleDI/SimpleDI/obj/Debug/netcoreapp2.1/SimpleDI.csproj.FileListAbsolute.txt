@@ -1,0 +1,10 @@
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\bin\Debug\netcoreapp2.1\SimpleDI.deps.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\bin\Debug\netcoreapp2.1\SimpleDI.runtimeconfig.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\bin\Debug\netcoreapp2.1\SimpleDI.runtimeconfig.dev.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\bin\Debug\netcoreapp2.1\SimpleDI.dll
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\obj\Debug\netcoreapp2.1\SimpleDI.csproj.CoreCompileInputs.cache
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\obj\Debug\netcoreapp2.1\SimpleDI.AssemblyInfoInputs.cache
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\obj\Debug\netcoreapp2.1\SimpleDI.AssemblyInfo.cs
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\bin\Debug\netcoreapp2.1\SimpleDI.pdb
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\obj\Debug\netcoreapp2.1\SimpleDI.dll
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\SimpleDI\obj\Debug\netcoreapp2.1\SimpleDI.pdb

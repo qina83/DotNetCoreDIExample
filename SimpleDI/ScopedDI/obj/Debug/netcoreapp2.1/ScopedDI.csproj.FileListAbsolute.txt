@@ -1,0 +1,10 @@
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\bin\Debug\netcoreapp2.1\ScopedDI.deps.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\bin\Debug\netcoreapp2.1\ScopedDI.runtimeconfig.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\bin\Debug\netcoreapp2.1\ScopedDI.runtimeconfig.dev.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\bin\Debug\netcoreapp2.1\ScopedDI.dll
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\obj\Debug\netcoreapp2.1\ScopedDI.csproj.CoreCompileInputs.cache
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\obj\Debug\netcoreapp2.1\ScopedDI.AssemblyInfoInputs.cache
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\obj\Debug\netcoreapp2.1\ScopedDI.AssemblyInfo.cs
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\bin\Debug\netcoreapp2.1\ScopedDI.pdb
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\obj\Debug\netcoreapp2.1\ScopedDI.dll
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\ScopedDI\obj\Debug\netcoreapp2.1\ScopedDI.pdb

@@ -1,0 +1,11 @@
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\bin\Debug\netcoreapp2.1\MultiDI.deps.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\bin\Debug\netcoreapp2.1\MultiDI.runtimeconfig.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\bin\Debug\netcoreapp2.1\MultiDI.runtimeconfig.dev.json
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\bin\Debug\netcoreapp2.1\MultiDI.dll
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\obj\Debug\netcoreapp2.1\MultiDI.csproj.CoreCompileInputs.cache
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\obj\Debug\netcoreapp2.1\MultiDI.AssemblyInfoInputs.cache
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\obj\Debug\netcoreapp2.1\MultiDI.AssemblyInfo.cs
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\bin\Debug\netcoreapp2.1\MultiDI.pdb
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\obj\Debug\netcoreapp2.1\MultiDI.dll
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\obj\Debug\netcoreapp2.1\MultiDI.pdb
+C:\Users\c.giulioni\Desktop\learning\DotNetCoreDIExample\SimpleDI\MultiDI\obj\Debug\netcoreapp2.1\MultiDI.csprojAssemblyReference.cache

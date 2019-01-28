@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "0c810689d88ae7d35801ceb9fd364aeeb09da92c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "SimpleDI/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "3.0.0-preview.18572.1"
+        },
+        "runtime": {
+          "SimpleDI.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.0.0-preview.18572.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.0.0-preview.18572.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.18326"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.0.0-preview.18572.1": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.18326"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/3.0.0-preview.18572.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x+pXTr6uY2xkES2kmpQhCOSSIjHAxkEy3PxjpAlmv9Wk8DQd1NRaiLPGYatCSF4Im48naUaEbmb7nW1ILSRAzw==",
+      "path": "microsoft.extensions.dependencyinjection/3.0.0-preview.18572.1",
+      "hashPath": "microsoft.extensions.dependencyinjection.3.0.0-preview.18572.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.0.0-preview.18572.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tddbixtYgYc97kf0KDg+nVVxwcNatpS2u6NkaPuYTkONxrqQvnkMbLhws46U4ndLrHcMi6so2WYQM3YpvXgQNw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.0.0-preview.18572.1",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.0.0-preview.18572.1.nupkg.sha512"
+    }
+  }
+}
